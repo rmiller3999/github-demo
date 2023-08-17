@@ -3,4 +3,4 @@ bla bla blah
 ggg
 bla blah1 blah 2
 
-sidenot notes
+sidenot notes: notes on sidenotes 1
